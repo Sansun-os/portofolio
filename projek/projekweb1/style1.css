@@ -1,0 +1,95 @@
+.head {
+    width: 100%;
+    background-color: rgb(37, 22, 37);
+    opacity: 10px;
+    height: 70px;
+    box-sizing: border-box;
+    padding-top: 20px;
+    margin-left: -10px;
+    margin-top: -8px;
+    
+position: fixed;
+
+
+}
+h1{
+    text-align: right;
+}
+.head li a{
+    color: rgb(255, 251, 251);
+    padding-right: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 20px;
+
+}
+
+li {
+    display: inline-block;
+    padding-left: 10px;
+    margin-left: 5px;
+font-size: 20px;
+text-decoration: none;
+
+}
+.header{
+    height: 1500px;
+    width: auto;
+    background-color: rgb(49, 49, 54);
+    box-sizing: border-box;
+    margin-left: -10px;
+    margin-right: -20px;
+    padding-top: 1px;
+}
+.image {
+    background-image: url(sandi10.png);
+    height: 200px;
+    background-size:cover;
+    width: 200px;
+    margin-left: 130px;
+    margin-top: 150px;
+}
+.header h1 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 130px;
+}
+.header .tesk {
+    color: yellow;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 130px;
+    margin-top: -15px;
+}
+.header .tesk1 {
+    color: yellow;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+.header .tesk2 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 130px;
+}
+.header .tesk3 {
+    color: white;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 130px;
+}
+.header .tesk4 {
+    color: yellow;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 150px;
+    margin-top: 30px;
+}

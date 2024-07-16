@@ -1,0 +1,116 @@
+
+head
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(32, 32, 32);
+    color: white;
+}
+a {
+    font-size: 20px;
+   
+    color: white;
+}
+header ul
+{
+    position: center;
+    top: 0;
+    left: 0;
+    width: 50%;
+    padding: 10px 450px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+section
+{
+    position: center;
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
+section ul
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: ;
+}
+section ul li
+{
+    list-style: none;
+    margin-left: 30px;
+}
+section ul li a
+{
+    text-decoration: none;
+    color: ;
+    font-weight: 700;
+    border-bottom: 20px;
+    border-top: 10px;
+    border-radius: 15px;
+}
+section a:hover,
+section a:active
+section a:hover 
+{
+    background: ;
+    color: ;
+}
+header .logo
+{
+    color: ;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 2em;
+    text-align: center;
+}
+header ul
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: ;
+}
+header ul li
+{
+    list-style: none;
+    margin:auto;
+}
+header ul li a
+{
+    text-decoration: none;
+    padding: 6px 10px;
+    color: ;
+    font-weight: 700;
+    border-radius: 25px;
+}
+header ul li a:hover,
+header ul li a:active
+{
+    background: ;
+    color: ;
+}
+
+#pageintro {
+    padding: 50px;
+    background-color: rgb(32, 32, 32);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#text {
+    position: absolute;
+    color: ;
+    white-space: nowrap;
+    font-size: 8vw;
+    font-size: 2em;
+    z-index: 9;
+}

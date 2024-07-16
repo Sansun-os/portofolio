@@ -1,0 +1,244 @@
+body {
+    
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    background-image: url(images3.jpg);
+    background-size: cover;
+    height: 2000px;
+}
+.asu1 {
+    background-image: url(gambar2.jpg);
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+    background-position:0 -170px;
+    width: auto;
+margin-left:auto;
+margin-right:auto;
+
+box-sizing: border-box;
+border-bottom: 5px solid rgb(118, 85, 196);
+}
+.isi1 {
+    background-color: white;
+}
+.blog {
+    margin: auto;
+    background-color: rgb(26, 17, 26);
+    margin-top:80px;
+    
+}
+.blog1{
+margin: auto;
+background-color:rgb(26, 17, 26);
+margin-top: -10px;
+
+}
+.blog2 {
+    margin: auto;
+    background-color: rgb(26, 17, 26);
+    
+}
+
+.blog2 a:hover {
+    color:rgb(255, 0, 0);
+}
+.blog2 h3 {
+    text-align: center;
+    font-family: roboto;
+    font-size: 30px;
+    margin-top: -300px;
+}
+
+.blog4 {
+    margin: auto;
+    background-color: black;
+    color: white;
+    height: 60px;
+    
+}
+.blog4 h2 {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: normal;
+}
+.head {
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    margin-left: -10px;
+    margin-top: -80px;
+  
+    position: fixed;
+}
+
+    
+
+li{
+    list-style: none;
+    display: inline;
+    padding-left: 20px;
+}
+
+li a{
+    background: rgb(0, 0, 0);
+    color: #ffffff;
+}
+li a:hover {
+    background: black;
+    color:rgb(255, 0, 0);
+}
+.head a {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 14px 10 px;
+}
+.gambar {
+    margin-left: 100px;
+}
+.kotak {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    margin-left: 50px;
+    
+}
+.kotak1 {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    margin-left: 440px;
+    margin-top: 40px;
+    
+}
+.kotak2 {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    margin-left: 780px;
+    margin-top: 70px;
+    
+}
+.kotak3 {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    margin-left: 390px;
+    margin-top: -610px;
+    box-sizing: border-box;
+    
+}
+.kotak4 {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: -300px;
+    
+}
+.kotak5 {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: 400px;
+    
+}
+.kotak6 {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    margin-left: 390px;
+    margin-top: -640px;
+}
+.kotak img {
+    height: 250px;
+    width: 300px;
+}
+
+.kotak3 img {
+    height: 250px;
+    width: 300px;
+}
+.kotak2 img {
+    height: 250px;
+    width: 300px;
+}
+.kotak1 img {
+    height: 250px;
+    width: 300px;
+}
+.kotak4 img {
+    height: 250px;
+    width: 300px;
+}
+.kotak5 img {
+    height: 250px;
+    width: 300px;
+}
+
+.kotak8 {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+   
+    margin-top: 70px;
+}
+.kotak9 {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+   margin-left: 390px;
+    margin-top: -300px;
+}
+.kotak10 {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+   margin-left: 780px;
+    margin-top: -300px;
+}
+.kotak8 img {
+    height: 250px;
+    width: 300px;
+}
+.kotak9 img {
+    height: 250px;
+    width: 300px;
+}
+.kotak10 img {
+    height: 250px;
+    width: 300px;
+}
+
+.blog2 a {
+    color: white;
+    margin-left: 90px;
+    text-decoration: none;
+    
+}
+.blog5 {
+    color: white;
+    background-color: rgb(26, 17, 26);
+    margin-left: 67px;
+
+}
+.blog5 h1 {
+    text-align: center;
+    margin-top: -10px;
+}
+.name1 {
+    font-size: 20px;
+    font-family: arial;
+    margin-left: 350px;
+    margin-top: -20px;
+
+}
+.name2 {
+    font-size: 20px;
+    font-family: arial;
+    margin-left: 700px;
+    margin-top: -110px;
+}
